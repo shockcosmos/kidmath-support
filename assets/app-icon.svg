@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="数学乐园">
+  <rect width="1024" height="1024" fill="#4fb7a5"/>
+  <circle cx="790" cy="210" r="108" fill="#ffd76a"/>
+  <path d="M120 712c88-184 208-276 360-276s272 92 424 276v192H120z" fill="#89ca91"/>
+  <circle cx="512" cy="436" r="208" fill="#ffe082" stroke="#fff7d6" stroke-width="36"/>
+  <circle cx="444" cy="392" r="26" fill="#24313b"/>
+  <circle cx="580" cy="392" r="26" fill="#24313b"/>
+  <path d="M436 492c48 48 104 48 152 0" fill="none" stroke="#24313b" stroke-width="34" stroke-linecap="round"/>
+  <path d="M288 208h148M362 134v148M640 664h136" stroke="#fff" stroke-width="56" stroke-linecap="round"/>
+</svg>
